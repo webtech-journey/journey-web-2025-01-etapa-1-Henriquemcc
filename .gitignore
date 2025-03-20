@@ -1,2 +1,9 @@
+tmp
+tmp/
 /tmp
+/tmp/
 secrets.env
+temp_files
+temp_files/
+/temp_files
+/temp_files/
